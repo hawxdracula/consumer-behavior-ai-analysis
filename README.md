@@ -126,6 +126,10 @@ Additional studies may also examine demographic differences in consumer response
 * Project Screenshots
 * Project Report
 
+## Research Report
+
+The complete research report is available in this repository:
+- Roshan_Kumar_Ojha_Consumer_Behavior_Research_Report.pdf
 
 
 ## Screenshots
